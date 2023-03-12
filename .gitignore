@@ -1,0 +1,22 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/JavaDoc/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/orders/
+/serialized/
+*.docx
+*.csv
