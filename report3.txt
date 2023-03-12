@@ -1,0 +1,4 @@
+Clients who ordered more than 2 times and the value of the order is higher than 30: 
+Mihai Alexandrescu,  Observatorului 39
+Constanta Anca,  Abrud 35
+Cristian Balea,  Zorilor 34

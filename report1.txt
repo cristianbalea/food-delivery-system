@@ -1,0 +1,20 @@
+The orders performed between 10 and 15:
+OrderID: 1 Client: Cristian Balea Hour: Sat May 21 14:53:02 EEST 2022
+OrderID: 2 Client: Cristian Balea Hour: Sat May 21 14:53:06 EEST 2022
+OrderID: 3 Client: Cristian Balea Hour: Sat May 21 14:53:08 EEST 2022
+OrderID: 4 Client: Cristian Balea Hour: Sat May 21 14:53:11 EEST 2022
+OrderID: 5 Client: Cristian Balea Hour: Sat May 21 14:53:14 EEST 2022
+OrderID: 6 Client: Cristian Balea Hour: Sat May 21 14:53:17 EEST 2022
+OrderID: 7 Client: Cristian Balea Hour: Sat May 21 14:53:23 EEST 2022
+OrderID: 8 Client: Constanta Anca Hour: Sat May 21 14:53:40 EEST 2022
+OrderID: 9 Client: Constanta Anca Hour: Sat May 21 14:53:50 EEST 2022
+OrderID: 10 Client: Constanta Anca Hour: Sat May 21 14:54:08 EEST 2022
+OrderID: 11 Client: Constanta Anca Hour: Sat May 21 14:54:11 EEST 2022
+OrderID: 12 Client: Constanta Anca Hour: Sat May 21 14:54:13 EEST 2022
+OrderID: 28 Client: Mircea Ivan Hour: Sun May 22 12:42:26 EEST 2022
+OrderID: 29 Client: Mircea Ivan Hour: Sun May 22 12:42:32 EEST 2022
+OrderID: 30 Client: Cristian Balea Hour: Sun May 22 12:43:00 EEST 2022
+OrderID: 31 Client: Constanta Anca Hour: Sun May 22 12:56:01 EEST 2022
+OrderID: 34 Client: Mihai Alexandrescu Hour: Mon May 23 12:30:25 EEST 2022
+OrderID: 35 Client: Mihai Alexandrescu Hour: Mon May 23 12:31:35 EEST 2022
+OrderID: 36 Client: Alex Hour: Mon May 23 12:32:15 EEST 2022
